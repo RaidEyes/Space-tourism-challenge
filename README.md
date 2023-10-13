@@ -35,8 +35,8 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [My link](https://github.com/RaidEyes/Space-tourism-challenge)
-- Live Site URL: [](https://raideyes.github.io/Space-tourism-challenge/)
+- Solution URL: [Solution](https://github.com/RaidEyes/Space-tourism-challenge)
+- Live Site URL: [Live Site](https://raideyes.github.io/Space-tourism-challenge/)
 
 ## My process
 
@@ -87,4 +87,4 @@ I recommend checking Hyperplexed on Youtube for his incredible frontend content.
 
 ## Author
 
-- Frontend Mentor - [](https://www.frontendmentor.io/profile/RaidEyes)
+- Frontend Mentor - [My Frontend Mentor Profile](https://www.frontendmentor.io/profile/RaidEyes)
