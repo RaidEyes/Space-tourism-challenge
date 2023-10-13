@@ -35,7 +35,7 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 
 ### Links
 
-- Solution URL: [](https://github.com/RaidEyes/Space-tourism-challenge)
+- Solution URL: [My link](https://github.com/RaidEyes/Space-tourism-challenge)
 - Live Site URL: [](https://raideyes.github.io/Space-tourism-challenge/)
 
 ## My process
